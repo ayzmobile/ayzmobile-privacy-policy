@@ -2,7 +2,7 @@
 
 
 GİZLİLİK POLİTİKASI (AYZMobile'
-Bu mobil oyun (Etkileşimli Sudoku) AYZMobile tarafından sunulmaktadır.
+Bu mobil oyun AYZMobile tarafından sunulmaktadır.
 Kişisel Veri Toplama
 Uygulama, **adınız, e-posta adresiniz ,konumunuz veya fotoğraflarınız gibi doğrudan tanımlayıcı kişisel verileri** **kesinlikle toplamaz**. Tüm oyun ilerlemes skor, dil, tema) cihazınızın yerel depolama alanında (LocalStorage) tutulur.
 Üçüncü Taraf Hizmetler (Reklam ve Analitik
